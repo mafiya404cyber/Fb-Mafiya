@@ -2,6 +2,10 @@
 
 
 
+🥀🥀New command🥀🥀
+   
+
+
 
 🥀apt update
 🥀apt upgrade
@@ -15,3 +19,4 @@
 🥀cd Fb-Mafiya
 🥀ls
 🥀python Fb-Mafiya.py
+
